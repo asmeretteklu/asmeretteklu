@@ -40,8 +40,9 @@
 
 I started my degree in 2019, and a three-year disruption to classes followed. I finished it anyway, then kept building while supporting my family. I want to keep learning at graduate level and bring that knowledge back to where I live.
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=90&section=footer" alt="" />
 
 </div>
