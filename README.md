@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="   <img src="banner-geez.svg" alt="Asmeret Teklu — Software Engineer, AI and Full-Stack Builder" width="100%" />
+<img src="banner-geez.svg" alt="Asmeret Teklu — Software Engineer, AI and Full-Stack Builder" width="100%" />
+
+<br/>
+
+*I write code to solve real-world problems and tell stories* ✦
 
 <br/>
 
@@ -8,23 +12,33 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-asmeretteklu-C9A96E?style=for-the-badge&labelColor=0D0D12&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/asmeretteklu)
 [![Email](https://img.shields.io/badge/EMAIL-say%20hello-BC8A76?style=for-the-badge&labelColor=0D0D12&logo=gmail&logoColor=BC8A76)](mailto:asmeretteklu03@gmail.com)
 
-<img src="divider.svg" width="100%" alt="" />
+<br/>
 
 </div>
 
-## ✦ About
+<img src="h-about.svg" width="100%" alt="About me" />
 
-🎓 &nbsp;**BSc Software Engineering**, Microlink IT College — **3.74 / 4.0, Great Distinction** (2025)
+**Forged in resilience, engineered for impact.**
 
-🔭 &nbsp;Interested in **Applied AI · IoT · Health Tech**
+I studied through internet blackouts and power cuts, from handwritten notes and printed pages, sometimes by candlelight. I graduated in August 2025 with a **3.74 GPA, Great Distinction**, in Software Engineering at Microlink IT College.
 
-🎯 &nbsp;Looking for a **fully funded MSc in Computer Science**
+Now I build software for the conditions I know: slow internet, power cuts, users who speak Tigrinya and Amharic. *Those are not edge cases to me. They are the main case.*
 
-🛠️ &nbsp;I design the architecture, direct AI-assisted development, then review, test and take ownership of what ships.
+I design the architecture and direct AI-assisted development, then review, test and take ownership of what ships. Next step: a **fully funded MSc in Computer Science**, to go deeper and bring more tools back home.
 
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
+<div align="center">
 
-## ✦ Tech I work with
+| TIGRINYA | ENGLISH | AMHARIC |
+|:---:|:---:|:---:|
+| Mother tongue | Full fluency | Full professional |
+
+</div>
+
+<br/>
+
+<img src="h-toolbox.svg" width="100%" alt="What I build with" />
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-1E1E2A?style=flat-square&logo=react&logoColor=E0A387)
 ![React Native](https://img.shields.io/badge/React%20Native-1E1E2A?style=flat-square&logo=react&logoColor=E0A387)
@@ -39,24 +53,38 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-1E1E2A?style=flat-square&logo=tailwindcss&logoColor=E0A387)
 ![Git](https://img.shields.io/badge/Git-1E1E2A?style=flat-square&logo=git&logoColor=E0A387)
 
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
+</div>
 
-## ✦ Featured projects
+<br/>
+
+<img src="h-projects.svg" width="100%" alt="Featured projects" />
 
 > Most of my repositories are private. Each project has a write-up, screenshots and a demo on my portfolio, and I'm happy to share code access with reviewers on request.
 
 | Project | What it is | Stack | |
 |:--|:--|:--|:--|
 | **Keno Platform** | Role-based lottery management system | React · Node.js | [Portfolio](https://asmeret.netlify.app) |
-| **Luna** | Cycle-tracking and women's health app with an AI assistant, in Amharic and English | React Native · Expo · Supabase · Gemini API | [Portfolio](https://asmeret.netlify.app) |
+| **Luna** | Cycle-tracking and women's health app with an AI assistant, built for Ethiopian and African women, in Amharic and English | React Native · Expo · Supabase · Gemini API | [Portfolio](https://asmeret.netlify.app) |
 | **Microlink Registration System** | Cut student registration and fee payment at my college from up to 7 days to minutes | HTML/CSS/JS · PHP · MySQL | [Portfolio](https://asmeret.netlify.app) |
 | **[Lottery Platform](https://github.com/asmeretteklu/lottery-platform)** | Lottery backend and admin panel: phone-OTP login, transactional ticket purchase, Redis-locked audited draws, row-level security | React · Express · Supabase · Redis | [Code](https://github.com/asmeretteklu/lottery-platform) |
 
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
+<br/>
 
-## ✦ My path
+<img src="h-now.svg" width="100%" alt="Currently exploring" />
 
-I started my degree in 2019, and a three-year disruption to classes followed. I finished it anyway, then kept building while supporting my family. I want to keep learning at graduate level and bring that knowledge back to where I live.
+- 🧠 &nbsp;**Bilingual AI** — Tigrinya and English NLP
+- 📡 &nbsp;**Offline-first mobile** — sync for low-connectivity places
+- 🏗️ &nbsp;**System design** — scalable architecture patterns
+
+<br/>
+
+<img src="h-path.svg" width="100%" alt="My path" />
+
+I started my degree in 2019. COVID came, then war in Tigray, and classes stopped for three years. I kept studying anyway, then compressed the missed semesters to catch up, passed the national exit exam, and graduated. I kept building along the way, and I still do, while supporting my family.
+
+I want to keep learning at graduate level and bring that knowledge back to where I live.
+
+<br/>
 
 <div align="center">
 
