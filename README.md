@@ -60,6 +60,6 @@ I started my degree in 2019, and a three-year disruption to classes followed. I 
 
 <div align="center">
 
-*Thanks for stopping by ✦*
+<img src="footer.svg" width="100%" alt="ሰላም — thanks for stopping by" />
 
 </div>
