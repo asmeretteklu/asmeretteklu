@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Asmeret Teklu — Software Engineer, AI and Full-Stack Builder" width="100%" />
+<img src="   <img src="banner-geez.svg" alt="Asmeret Teklu — Software Engineer, AI and Full-Stack Builder" width="100%" />
 
 <br/>
 
